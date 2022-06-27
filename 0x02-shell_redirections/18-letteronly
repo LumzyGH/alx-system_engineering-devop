@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ^[[:aplha:]] /etc/passwd
+grep ^[[:alpha:]] /etc/passwd
